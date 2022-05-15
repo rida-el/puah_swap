@@ -1,9 +1,9 @@
 ### Steps:
 
-- [ ] parse input
-   - [ ] split args
-   - [ ] read individual numbers
-- [ ] check for invalid input
+- [X] parse input
+   - [X] split args
+   - [X] read individual numbers
+- [X] check for invalid input
 - [ ] store in stack
 - [ ] create moves funtions
   - [ ] sa - swap a: swap the first 2 elements at the top of stack a. (do nothing if there is only one or no elements).
